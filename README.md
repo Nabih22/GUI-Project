@@ -1,4 +1,4 @@
-# GUI-Project
+# GUI-Application
 
 This project is a graphic user-interface fishing rod and reel selector using the software Visual Basic. The purpose of the project is to help users identify which size fishing rods or reels they would need to use based on which species of fish they would like to catch. This is a common problem with many people new to fishing and wanting to give the hobby a try. This project is targeted specifically for casual fishermen and first timers. Most of your first timers and casual fishermen simply want to just catch a fish, and the most important thing to do to begin catching a fish is selecting the correct rod and reel for the fish you would like to catch.
 
